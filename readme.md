@@ -6,6 +6,7 @@
 
 * -I flag - will reinstall packages even with same version number
 * -e flag - will create a link to directory - every change will be reflacted in package
+* notice the *MANIFEST.in* file as it contains directories to exclude
 
 # Usage
 1. Open a python shell
